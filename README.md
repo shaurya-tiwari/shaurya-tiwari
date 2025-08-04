@@ -1,8 +1,9 @@
 <p align="center">
   <img src="gif.gif" alt="Banner" width="100%" />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=40&duration=2000&pause=500&color=FACC15&center=true&vCenter=true&width=500&lines=hi%2C+I'm+Shaurya" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=45&duration=3000&pause=800&color=FF4B91&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shaurya" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,34 +12,68 @@
   <a href="https://x.com/Shauryatiwari77"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-- 🎓  **AI & ML student** exploring machine learning, deep learning, and frontend development  
-- 🌍  I'm based in **Noida, India**  
-- 🖥️  See my portfolio at **[PORTFOLIO](https://shaurya-tiwari-portfolio.vercel.app/)**  
-- ✉️  You can contact me at **[shauryatiwari120@gmail.com](mailto:shauryatiwari120@gmail.com)**  
-- 🧠  Currently learning **Generative AI**  
-- ⚡  Fun fact: I'm a **Mythological and Greek Sketch Artist**
-
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
+<p align="center">
+  <a href="https://github.com/shaurya-tiwari"><img src="https://img.shields.io/github/followers/shaurya-tiwari?logo=github&style=for-the-badge&color=FF4B91" /></a>
+  <a href="https://x.com/Shauryatiwari77"><img src="https://img.shields.io/twitter/follow/Shauryatiwari77?logo=twitter&style=for-the-badge&color=FF4B91" /></a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/shaurya-tiwari" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/Shauryatiwari77" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/shauryatiwari120" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/shaurya-tiwari" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/shaurya-tiwari?logo=github&style=for-the-badge&color=64748b&labelColor=181824" /></a><a href="https://www.x.com/Shauryatiwari77" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Shauryatiwari77?logo=twitter&style=for-the-badge&color=64748b&labelColor=181824"
-/></a>
-### Badges
+<table>
+<tr>
+<td valign="top" width="60%">
 
-<b>My GitHub Stats</b>
+### 🌟 About Me
 
-<a href="http://www.github.com/shaurya-tiwari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-tiwari&stroke=ffffff&background=181824&ring=444e59&fire=444e59&currStreakNum=ffffff&currStreakLabel=444e59&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- 🎓 **AI & ML student** exploring machine learning, deep learning, and frontend development  
+- 🌍 Based in **Noida, India**  
+- 🖥️ Portfolio: [shaurya-tiwari-portfolio.vercel.app](https://shaurya-tiwari-portfolio.vercel.app/)  
+- ✉️ Contact: [shauryatiwari120@gmail.com](mailto:shauryatiwari120@gmail.com)  
+- 🧠 Currently learning **Generative AI**  
+- 🎨 Fun fact: I'm a **Mythological and Greek Sketch Artist**
 
-<a href="https://github.com/shaurya-tiwari" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-tiwari&langs_count=10&title_color=444e59&text_color=ffffff&icon_color=64748b&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</td>
+<td valign="top" width="40%" align="center">
 
-<b>Top Repositories</b>
+<img src="d.png" alt="Profile ID Card" width="90%" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 
-<div width="100%" align="center"><a href="https://github.com/shaurya-tiwari/PORTFOLIO" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaurya-tiwari&repo=PORTFOLIO&title_color=444e59&text_color=ffffff&icon_color=64748b&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/shaurya-tiwari/genai-image-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaurya-tiwari&repo=genai-image-app&title_color=444e59&text_color=ffffff&icon_color=64748b&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,sass,tailwind,react,nextjs,nodejs,express,mysql,mongodb,flask,django,vite,git,github,vscode,figma,wordpress,spring,bootstrap,tensorflow,pytorch" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-tiwari&stroke=ffffff&background=0d1117&ring=FF4B91&fire=FF4B91&currStreakNum=ffffff&currStreakLabel=FF4B91&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-tiwari&langs_count=10&title_color=FF4B91&text_color=ffffff&icon_color=FF4B91&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/shaurya-tiwari/PORTFOLIO">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaurya-tiwari&repo=PORTFOLIO&title_color=FF4B91&text_color=ffffff&icon_color=FF4B91&bg_color=0d1117&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/shaurya-tiwari/genai-image-app">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaurya-tiwari&repo=genai-image-app&title_color=FF4B91&text_color=ffffff&icon_color=FF4B91&bg_color=0d1117&hide_border=true&locale=en" />
+  </a>
+</div>
+
+---
+
+> 🧑‍🎨 Designed with passion by [Shaurya Tiwari](https://github.com/shaurya-tiwari)
