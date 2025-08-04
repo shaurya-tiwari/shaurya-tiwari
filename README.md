@@ -111,5 +111,3 @@
   <img src="greek.png" alt="Greek Art" width="450" />
 </p>
 <hr />
-
----
