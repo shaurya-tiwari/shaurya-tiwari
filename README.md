@@ -2,29 +2,29 @@
   <img src="gif.gif" alt="Banner" width="100%" />
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=45&duration=3000&pause=800&color=FF4B91&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shaurya" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/shaurya-tiwari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shauryatiwari120"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Shauryatiwari77"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/shaurya-tiwari"><img src="https://img.shields.io/github/followers/shaurya-tiwari?logo=github&style=for-the-badge&color=FF4B91" /></a>
   <a href="https://x.com/Shauryatiwari77"><img src="https://img.shields.io/twitter/follow/Shauryatiwari77?logo=twitter&style=for-the-badge&color=FF4B91" /></a>
-</p>
+</div>
 
 ---
 
+### 🌟 About Me
+
+<div align="center">
 <table>
 <tr>
-<td valign="top" width="60%">
-
-### 🌟 About Me
+<td valign="top">
 
 - 🎓 **AI & ML student** exploring machine learning, deep learning, and frontend development  
 - 🌍 Based in **Noida, India**  
@@ -32,23 +32,24 @@
 - ✉️ Contact: [shauryatiwari120@gmail.com](mailto:shauryatiwari120@gmail.com)  
 - 🧠 Currently learning **Generative AI**  
 - 🎨 Fun fact: I'm a **Mythological and Greek Sketch Artist**
+
 <a href="https://github.com/DenverCoder1">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaurya-tiwari&theme=github_dark" />
 </a>
+
 <p align="center">
  <img src="https://ghchart.rshah.org/shaurya-tiwari" />
 </p>
 
-
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="top" align="center">
 
-<img src="d.png" alt="Profile ID Card" width="90%" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+<img src="d.png" alt="Profile ID Card" width="100%" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 
 </td>
 </tr>
 </table>
-
+</div>
 
 ---
 
@@ -97,8 +98,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" />
 </p>
 
-
-
 ---
 
 ### 📊 GitHub Stats
@@ -107,8 +106,6 @@
 </p>
 
 [![Shaurya Tiwari's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaurya-tiwari&bg_color=0d1117&color=ffffff&line=8fc658&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-tiwari&stroke=ffffff&background=0d1117&ring=FF4B91&fire=FF4B91&currStreakNum=ffffff&currStreakLabel=FF4B91&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
