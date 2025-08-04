@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shaurya</h1>
+<h1 align="left">Hi 👋, I'm shaurya</h1>
 <h3 align="center">AI & ML student exploring machine learning, deep learning, with a keen interest in frontend development.</h3>
 
 <h3 align="left">Connect with me:</h3>
