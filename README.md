@@ -21,35 +21,28 @@
 
 ### 🌟 About Me
 
-<div align="center">
-<table>
-<tr>
-<td valign="top">
+<p align="left">
+  🎓 <strong>AI & ML student</strong> exploring machine learning, deep learning, and frontend development <br>
+  🌍 Based in <strong>Noida, India</strong> <br>
+  🖥️ Portfolio: <a href="https://shaurya-tiwari-portfolio.vercel.app/">shaurya-tiwari-portfolio.vercel.app</a> <br>
+  ✉️ Contact: <a href="mailto:shauryatiwari120@gmail.com">shauryatiwari120@gmail.com</a> <br>
+  🧠 Currently learning <strong>Generative AI</strong> <br>
+  🎨 Fun fact: I'm a <strong>Mythological and Greek Sketch Artist</strong>
+</p>
 
-- 🎓 **AI & ML student** exploring machine learning, deep learning, and frontend development  
-- 🌍 Based in **Noida, India**  
-- 🖥️ Portfolio: [shaurya-tiwari-portfolio.vercel.app](https://shaurya-tiwari-portfolio.vercel.app/)  
-- ✉️ Contact: [shauryatiwari120@gmail.com](mailto:shauryatiwari120@gmail.com)  
-- 🧠 Currently learning **Generative AI**  
-- 🎨 Fun fact: I'm a **Mythological and Greek Sketch Artist**
-
-<a href="https://github.com/DenverCoder1">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaurya-tiwari&theme=github_dark" />
-</a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaurya-tiwari&theme=github_dark" />
+  </a>
+</p>
 
 <p align="center">
  <img src="https://ghchart.rshah.org/shaurya-tiwari" />
 </p>
 
-</td>
-<td valign="top" align="center">
-
-<img src="d.png" alt="Profile ID Card" width="100%" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-
-</td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <img src="d.png" alt="Profile ID Card" width="300px" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+</p>
 
 ---
 
