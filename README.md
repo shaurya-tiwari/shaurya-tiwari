@@ -107,16 +107,9 @@
 </div>
 
 ---
-
-### 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/shaurya-tiwari/PORTFOLIO">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaurya-tiwari&repo=PORTFOLIO&title_color=FF4B91&text_color=ffffff&icon_color=FF4B91&bg_color=0d1117&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/shaurya-tiwari/genai-image-app">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaurya-tiwari&repo=genai-image-app&title_color=FF4B91&text_color=ffffff&icon_color=FF4B91&bg_color=0d1117&hide_border=true&locale=en" />
-  </a>
-</div>
+<p align="right">
+  <img src="greek.png" alt="Greek Art" width="450" />
+</p>
+<hr />
 
 ---
