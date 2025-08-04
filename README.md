@@ -104,9 +104,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-tiwari&stroke=ffffff&background=0d1117&ring=FF4B91&fire=FF4B91&currStreakNum=ffffff&currStreakLabel=FF4B91&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
 
-<p align="left">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-tiwari&langs_count=10&title_color=FF4B91&text_color=ffffff&icon_color=FF4B91&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages" />
-</p>
+  <img src="lets code.gif" alt="Let's Code GIF" width="300px" />
+</div>
 
 ---
 
