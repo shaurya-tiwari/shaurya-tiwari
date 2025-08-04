@@ -106,7 +106,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shaurya-tiwari&theme=dracula&row=1&column=7" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaurya-tiwari&theme=react-dark&hide_border=true" />
+[![Shaurya Tiwari's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaurya-tiwari&bg_color=0d1117&color=ffffff&line=8fc658&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-tiwari&stroke=ffffff&background=0d1117&ring=FF4B91&fire=FF4B91&currStreakNum=ffffff&currStreakLabel=FF4B91&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
