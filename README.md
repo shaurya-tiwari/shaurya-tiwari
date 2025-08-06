@@ -107,7 +107,7 @@
 </div>
 
 ---
-<p align="right">
+<p align="center">
   <img src="greek.png" alt="Greek Art" width="450" />
 </p>
 <hr />
