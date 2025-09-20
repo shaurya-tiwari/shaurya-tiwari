@@ -23,7 +23,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shaurya-tiwari" alt="Profile views" /><br>
+
   🎓 I'm an AI & ML enthusiast passionate about building intelligent systems and smart user experiences.<br>
   🌐 Based in Noida, India – currently diving deep into machine learning, deep learning, and frontend technologies.<br>
   🛠️ My toolkit includes Python, JavaScript, and modern frameworks like React, Next.js, and Streamlit.<br>
