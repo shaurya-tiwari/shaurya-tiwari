@@ -2,6 +2,7 @@
   <img src="gif.gif" alt="Banner" width="100%" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=45&duration=3000&pause=800&color=FF4B91&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shaurya" alt="Typing SVG" />
 </p>
@@ -10,24 +11,36 @@
   <a href="https://github.com/shaurya-tiwari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shauryatiwari120"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Shauryatiwari77"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shaurya-tiwari&label=Profile%20views&color=FF4B91&style=for-the-badge" />
+   <a href="https://github.com/shaurya-tiwari"><img src="https://img.shields.io/github/followers/shaurya-tiwari?logo=github&style=for-the-badge&color=FF4B91" /></a>
+  <a href="https://x.com/Shauryatiwari77"><img src="https://img.shields.io/twitter/follow/Shauryatiwari77?logo=twitter&style=for-the-badge&color=FF4B91" /></a>
+
 </div>
 
-<div align="center">
-  <a href="https://github.com/shaurya-tiwari"><img src="https://img.shields.io/github/followers/shaurya-tiwari?logo=github&style=for-the-badge&color=FF4B91" /></a>
-  <a href="https://x.com/Shauryatiwari77"><img src="https://img.shields.io/twitter/follow/Shauryatiwari77?logo=twitter&style=for-the-badge&color=FF4B91" /></a>
-</div>
+
 
 ---
 
-### About Me
-
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
 <p align="left">
-  🎓 <strong>AI & ML student</strong> exploring machine learning, deep learning, and frontend development <br>
-  🌍 Based in <strong>Noida, India</strong> <br>
-  🖥️ Portfolio: <a href="https://shaurya-tiwari-portfolio.vercel.app/">shaurya-tiwari-portfolio.vercel.app</a> <br>
-  ✉️ Contact: <a href="mailto:shauryatiwari120@gmail.com">shauryatiwari120@gmail.com</a> <br>
-  🧠 Currently learning <strong>Generative AI</strong> <br>
-  🎨 Fun fact: I'm a <strong>Mythological and Greek Sketch Artist</strong>
+
+  🎓 I'm an AI & ML enthusiast passionate about building intelligent systems and smart user experiences.<br>
+  🌐 Based in Noida, India – currently diving deep into machine learning, deep learning, and frontend technologies.<br>
+  🛠️ My toolkit includes Python, JavaScript, and modern frameworks like React, Next.js, and Streamlit.<br>
+  🧠 I'm currently exploring Generative AI and love working with tools like NumPy, Pandas, Matplotlib, and PyTorch.<br>
+  🎨 Outside of tech, I'm a sketch artist inspired by Greek mythology and ancient art.<br>
+  📫 Reach me at: <a href="mailto:shauryatiwari120@gmail.com">shauryatiwari120@gmail.com</a><br>
+  🌟 Portfolio: <a href="https://shaurya-tiwari-portfolio.vercel.app/">shaurya-tiwari-portfolio.vercel.app</a>
+</p>
+
+<p align="center">
+<h3>🚧 Currently Working On</h3>
+<ul align="left">
+  <li>Building AI tools using Python & Streamlit</li>
+  <li>Exploring advanced concepts in Generative AI</li>
+  <li>Working with data libraries like Matplotlib, NumPy, and Pandas</li>
+  <li>Strengthening my mathematical foundations</li>
+</ul>
 </p>
 
 <p align="center">
@@ -107,9 +120,7 @@
 </div>
 
 ---
-<p align="right">
+<p align="center">
   <img src="greek.png" alt="Greek Art" width="450" />
 </p>
 <hr />
-
----
