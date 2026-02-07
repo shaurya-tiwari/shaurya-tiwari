@@ -121,3 +121,7 @@
 <p align="center">
   <img src="greek.png" alt="Greek Art" width="450" style="border-radius: 10px;" />
 </p>
+
+<p align="center">
+Code like an engineer. Think like an artist
+</p>
