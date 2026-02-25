@@ -123,5 +123,5 @@
 </p>
 
 <p align="center">
-Code like an engineer. Think like an artist
+ Think like an artist,Code like an engineer.
 </p>
