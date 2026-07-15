@@ -96,8 +96,7 @@
       <!-- RIGHT COLUMN -->
       <td valign="top" width="50%">
         <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=shaurya-tiwari&type=languages&theme=dark&chart=bars" width="100%" />
-        <br /><br />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaurya-tiwari&theme=github_dark" width="100%" />
+        <br />
       </td>
     </tr>
   </table>
